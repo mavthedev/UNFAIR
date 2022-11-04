@@ -10,4 +10,5 @@ Players cannot reach negative points, if they loose points while at 0, the other
 
 
 
-Players have XP/Levels they earn every time they play, each game earns 50 + points * 5
+Players have XP/Levels they earn every time they play, each game earns 50 + (points * 5)
+Every Levels XP requirement is 100 + (level * 50)
